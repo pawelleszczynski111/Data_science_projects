@@ -1,6 +1,6 @@
 # Data Science Projects
 
-Welcome to the **Data Science Projects** repository! This collection features a variety of data science projects that demonstrate different machine learning and data visualization techniques. Each project is implemented in a Jupyter Notebook and covers tasks such as classification, model interpretation, and feature importance analysis.
+Welcome to the **Data Science Projects** repository! This collection features a variety of data science projects demonstrating different machine learning and data visualization techniques. Each project is implemented in a Jupyter Notebook and covers tasks such as classification, model interpretation, and feature importance analysis.
 
 ## Projects
 
@@ -28,9 +28,15 @@ Welcome to the **Data Science Projects** repository! This collection features a 
   In this project, the Random Forest algorithm is employed to calculate and visualize the importance of different features in a dataset. The notebook provides insights into which variables are most influential in the predictive model.
 - **Technologies:** Python, Scikit-learn, Pandas, Matplotlib
 
-## Installation & Usage
+### 5. Deep Neural Network Classifier
+- **Notebook:** [Deep_Neural_Network_Classifier.ipynb](https://github.com/pawelleszczynski111/Data_science_projects/blob/main/Deep_Neural_Network_Classifier.ipynb)
+- **Description:**  
+  This new project implements a deep neural network for classification tasks. It compares the performance of deep learning models with traditional machine learning algorithms and highlights the benefits of using neural networks for complex datasets.
+- **Technologies:** Python, TensorFlow/Keras, Pandas, Matplotlib
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/pawelleszczynski111/Data_science_projects.git
-   cd Data_science_projects
+### 6. Exploratory Data Analysis & Visualization
+- **Notebook:** [EDA_Visualization.ipynb](https://github.com/pawelleszczynski111/Data_science_projects/blob/main/EDA_Visualization.ipynb)
+- **Description:**  
+  This notebook focuses on performing exploratory data analysis and advanced data visualization techniques. It includes interactive plots and various charts to uncover patterns and insights from the dataset.
+- **Technologies:** Python, Pandas, Seaborn, Plotly
+
